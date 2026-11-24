@@ -1,5 +1,4 @@
 import { useState } from 'react'
-
 const links = [
   ['Início', '#inicio'],
   ['Destinos', '#destinos'],

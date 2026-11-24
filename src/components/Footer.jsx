@@ -1,3 +1,4 @@
+import React from 'react'
 const links = [['Destinos', '#destinos'], ['Serviços', '#servicos'], ['Sobre nós', '#sobre'], ['Contato', '#contato']]
 
 function Footer() {

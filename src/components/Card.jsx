@@ -1,3 +1,4 @@
+import React from 'react'
 function Card({ destino, pais, descricao, preco, imagem, etiqueta }) {
   return (
     <article className="destination-card">
